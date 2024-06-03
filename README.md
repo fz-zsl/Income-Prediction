@@ -6,7 +6,6 @@
     <a href="https://github.com/fz-zsl">Shengli Zhou (12212232)</a>
   </p>
 </p>
-
 ## Installation
 
 The required packages are included in `requirements.txt`, you can build the environment for running the code by executing the following command in the project folder:
@@ -14,6 +13,15 @@ The required packages are included in `requirements.txt`, you can build the envi
 ```bash
 pip install -r requirements.txt
 ```
+
+## TL;DR
+
+```bash
+python train.py --dataset train
+python inference.py --dataset train
+```
+
+Then you can find the answers in `data/testlabel.txt`.
 
 ## Dataset
 
