@@ -4,8 +4,13 @@
   <h1 align="center">Adult Income Prediction based on Neural Network</h1>
   <p align="center">
     <a href="https://github.com/fz-zsl">Shengli Zhou (12212232)</a>
+    <br></br>
+    <img src="https://img.shields.io/badge/SUSTech-CS311-blue">
+    <img src="https://img.shields.io/badge/24_Spring-Project_3-green">
+    <img src="https://img.shields.io/badge/Score-TBA%2f100-orange">
   </p>
 </p>
+
 ## Installation
 
 The required packages are included in `requirements.txt`, you can build the environment for running the code by executing the following command in the project folder:
