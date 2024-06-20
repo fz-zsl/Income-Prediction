@@ -7,7 +7,11 @@
     <br></br>
     <img src="https://img.shields.io/badge/SUSTech-CS311-blue">
     <img src="https://img.shields.io/badge/24_Spring-Project_3-green">
-    <img src="https://img.shields.io/badge/Score-TBA%2f100-orange">
+    <img src="https://img.shields.io/badge/Score-98.52%2f100-orange">
+    <br></br>
+    <img src="https://img.shields.io/badge/Code-20%2f20-yellow">
+    <img src="https://img.shields.io/badge/Accuracy-85.2%25-red">
+    <img src="https://img.shields.io/badge/Report-70%2f70-turquoise">
   </p>
 </p>
 
